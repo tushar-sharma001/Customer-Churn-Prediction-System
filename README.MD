@@ -3,7 +3,7 @@
 ---
 ## 🌐 Live Demo
 
-👉 Streamlit App: 
+👉 Streamlit App: https://customer-churn-prediction-system-ndulchepzh3l7hzjd6wzuc.streamlit.app
 ---
 
 
