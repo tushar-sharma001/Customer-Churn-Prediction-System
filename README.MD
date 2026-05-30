@@ -64,7 +64,7 @@ A sleek, production‑ready **Customer Churn Prediction** web app built with **X
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https:git remote add origin https://github.com/tushar-sharma001/customer-churn-prediction.git
+git clone https:git remote add origin https://github.com/tushar-sharma001/Customer-Churn-Prediction-System.git
 
 cd customer-churn-prediction
 ```
@@ -131,6 +131,7 @@ CUSTOMER-CHURN/
 ## 👑 Author & Ownership Statement
 
 **Tushar Sharma**
+
 BCA | ML | FinTech
 
 > *Built to impress. Optimized to perform.*
